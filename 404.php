@@ -1,5 +1,5 @@
 <?php
-	echo 'test';
+	echo 'testnew test';
 	$page_found = false;
     $Explode = explode("/",$_SERVER['PHP_SELF']);
 	if(isset($Explode[1]) && !empty($Explode[1])){
