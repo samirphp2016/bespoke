@@ -1,0 +1,32 @@
+/* my foet */
+@font-face {
+    font-family: "ArticulatCF";
+    src: url("../fonts/Webfont/ArticulatCF-Regular.eot");
+    src: url("../fonts/Webfont/ArticulatCF-Regular.eot?#iefix") format("embedded-opentype"), format("woff") url("../fonts/Webfont/ArticulatCF-Regular.woff") format("woff") format("woff2"),
+        url("../fonts/Webfont/ArticulatCF-Regular.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-RegularOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-RegularOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-RegularOblique.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-Thin.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-Thin.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-Thin.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-ThinOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-ThinOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-ThinOblique.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-ExtraLight.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-ExtraLight.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-ExtraLight.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-ExtraLightOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-ExtraLightOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-ExtraLightOblique.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-Light.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-Light.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-Light.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-LightOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-LightOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-LightOblique.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-Normal.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-Normal.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-Normal.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-NormalOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-NormalOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-NormalOblique.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-Medium.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-Medium.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-Medium.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-MediumOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-MediumOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-MediumOblique.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-DemiBold.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-DemiBold.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-DemiBold.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-DemiBoldOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-DemiBoldOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-DemiBoldOblique.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-Bold.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-Bold.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-Bold.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-BoldOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-BoldOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-BoldOblique.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-ExtraBold.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-ExtraBold.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-ExtraBold.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-ExtraBoldOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-ExtraBoldOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-ExtraBoldOblique.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-Heavy.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-Heavy.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-Heavy.woff2") format("woff2"), url("../fonts/Webfont/ArticulatCF-HeavyOblique.eot") format("embedded-opentype"), url("../fonts/Webfont/ArticulatCF-HeavyOblique.woff") format("woff"),
+        url("../fonts/Webfont/ArticulatCF-HeavyOblique.woff2") format("woff2"), url("../fonts/OTF/ArticulatCF-Thin.otf?#iefix") format("opentype"), url("../fonts/OTF/ArticulatCF-ThinOblique.otf") format("opentype"),
+        url("../fonts/OTF//ArticulatCF-ExtraLight.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-ExtraLightOblique.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-Light.otf") format("opentype"),
+        url("../fonts/OTF/ArticulatCF-LightOblique.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-DemiBold.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-DemiBoldOblique.otf") format("opentype"),
+        url("../fonts/OTF/ArticulatCF-Normal.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-NormalOblique.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-Regular.otf") format("opentype"),
+        url("../fonts/OTF/ArticulatCF-RegularOblique.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-Bold.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-BoldOblique.otf") format("opentype"),
+        url("../fonts/OTF/ArticulatCF-ExtraBold.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-ExtraBoldOblique.otf") format("opentype"), url("../fonts/OTF/ArticulatCF-Heavy.otf") format("opentype"),
+        url("../fonts/OTF/ArticulatCF-HeavyOblique.otf") format("opentype");
+}

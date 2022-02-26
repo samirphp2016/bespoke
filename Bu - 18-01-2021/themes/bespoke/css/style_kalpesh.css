@@ -1,0 +1,61 @@
+
+/* DATE 05-01-2022 */
+.Problem .Problem-Animation
+{
+  position: relative;
+}
+.problem-animation-img{
+  position: absolute;
+  top: 33%;
+  left: 68%;
+  /* transform: translate(-50%,-50%); */
+  text-align: left;
+  width: 25.5%;
+  opacity: 0;
+}
+
+.Problem .Problem-Animation img{
+ /*  width: 68%;
+  height: 100%; */
+}
+.solution-section .container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  
+}
+.Solution-Animation{
+  position: absolute;
+  top: -200px;
+  right: 50px;
+  opacity: 0;
+  
+}
+.Solution-Animation .solution-animation-img{
+    margin-right: 91px;
+    width: 52%;
+}
+
+.Solution-Animation-hend{
+  position: absolute;
+  right: 0;
+  top: 200px;
+  
+}
+
+.solution-animation-img-hend{
+  margin-right: 105px;
+  margin-top: 282px;
+  width: 56%;
+}
+
+@media (max-width:769px){
+  .Problem .Problem-Animation,.Solution-Animation,.Solution-Animation-hend{
+    display: none;
+  }
+
+}
+
+
+
